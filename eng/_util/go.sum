@@ -141,6 +141,8 @@ github.com/microsoft/go-infra v0.0.0-20220419195018-e437e0d7a6f9 h1:TztudEX3sCZv
 github.com/microsoft/go-infra v0.0.0-20220419195018-e437e0d7a6f9/go.mod h1:eGPzRx36eMvtr8J3LLHYyP720NNE6kWLn78BcK/APOs=
 github.com/microsoft/go-infra v0.0.0-20230419212540-ba3ff179314f h1:kGFtx2rF0qwq6XOVv3gMxzIiS5WQTFXsteV0OGShJ4E=
 github.com/microsoft/go-infra v0.0.0-20230419212540-ba3ff179314f/go.mod h1:05O4eg4W/5U+fhs+WpxpglZga2LWk69RufauWHUs7lA=
+github.com/microsoft/go-infra v0.0.0-20230626204858-952f2d87692c h1:rlRb1v2aPnC4cXPPCBBHVzn5c91RSQR7g8BOuChaAWs=
+github.com/microsoft/go-infra v0.0.0-20230626204858-952f2d87692c/go.mod h1:05O4eg4W/5U+fhs+WpxpglZga2LWk69RufauWHUs7lA=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
